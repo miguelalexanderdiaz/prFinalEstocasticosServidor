@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost:8080/AtomicService/AtomicService?WSDL" uri="src/conf/xml-resources/web-service-references/AtomicService_1/wsdl/localhost_8080/AtomicService/AtomicService.wsdl"/>
+    <system systemId="http://localhost:8080/AtomicService/AtomicService?xsd=1" uri="src/conf/xml-resources/web-service-references/AtomicService_1/wsdl/localhost_8080/AtomicService/AtomicService.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/AtomicWebService/AtomicWebService?WSDL" uri="src/conf/xml-resources/web-service-references/AtomicWebService/wsdl/localhost_8080/AtomicWebService/AtomicWebService.wsdl"/>
+    <system systemId="http://localhost:8080/AtomicWebService/AtomicWebService?xsd=1" uri="src/conf/xml-resources/web-service-references/AtomicWebService/wsdl/localhost_8080/AtomicWebService/AtomicWebService.xsd_1.xsd"/>
+</catalog>
